@@ -4,7 +4,7 @@ Download layers or a map service from an ESRI ArcGIS server as geoJSON.
 
 ### Installation
  ``` 
- > npm install ags-download
+ > npm install ags-download -g
  ```
 
 ### Usage
