@@ -28,7 +28,6 @@ exports['awesome'] = {
   'no args': function(test) {
     test.expect(1);
     // tests here
-    test.equal(ags_download.awesome(), 'awesome', 'should be awesome.');
     test.done();
   }
 };
