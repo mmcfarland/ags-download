@@ -1,7 +1,7 @@
 {
   "name": "ags-download",
   "description": "Download data from ArcGIS server as geoJSON",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/mmcfarland/ags-download",
   "author": {
     "name": "Matthew McFarland",
