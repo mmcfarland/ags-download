@@ -27,5 +27,4 @@ Download individual layer to /tmp with srid of EPSF:4326
 Copyright (c) 2013 Matthew McFarland  
 Licensed under the MIT license.
 
-testing out analytics
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/db66748bfffb87878207d610a8e2dc8e "githalytics.com")](http://githalytics.com/mmcfarland/ags-download)
