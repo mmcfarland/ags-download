@@ -1,3 +1,4 @@
 *.geojson
 node_modules
 .idea
+*.un~
