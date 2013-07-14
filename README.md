@@ -9,7 +9,7 @@ Download layers or a map service from an ESRI ArcGIS server as geoJSON.
 
 ### Usage
 ```
-$ ags-download -u <ags_layer_url> -f <path_to_save> [-s <output_srid>]
+$ ags-download -u <ags_layer_url> [-f <path_to_save> -s <output_srid>]
 ```
 #### Examples
 
